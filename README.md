@@ -1,0 +1,2 @@
+# Javascript-Page
+class page
